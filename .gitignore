@@ -1,0 +1,9 @@
+
+/_ReSharper.*
+/*.testsettings
+/*.user
+/*.suo
+/*.vsmdi
+
+bin
+obj
